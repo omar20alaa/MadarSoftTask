@@ -1,0 +1,30 @@
+<resources>
+
+
+    <string name="app_name">MadarSoftTask</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="job_title">Job Title</string>
+    <string name="gender">Gender</string>
+    <string name="save">Save</string>
+    <string name="show_users">Show Users</string>
+    <string name="no_saved_users">No saved users yet!</string>
+    <string name="users">Users Database</string>
+    <string name="fill_data">Please fill all data first</string>
+    <string name="user_saved">User saved successfully!</string>
+    <string name="view_users">View Users</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="clear_user">Clear\n</string>
+    <string name="yes">Yes\n</string>
+    <string name="no">No</string>
+    <string name="confirm_clear_users">Confirm Clear All Users</string>
+    <string name="clear_users_message">Are you sure you want to clear all users?</string>
+    <string name="users_cleared">All users have been cleared.</string>
+    <string name="confirm_clear_user">Confirm Clear User</string>
+    <string name="clear_user_message">Are you sure you want to clear user %1$s?</string>
+    <string name="user_cleared">User %1$s has been cleared.</string>
+    <string name="add_new_user">Add New User</string>
+
+</resources>
